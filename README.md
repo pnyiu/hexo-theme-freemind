@@ -225,3 +225,5 @@ see [Examples](https://github.com/wzpan/freemind/wiki/Examples).
 * The theme is built based on [Twitter-Bootstrap 3.1.1](getbootstrap.com/3.1.1/);
 * The beautiful icons are from [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/).
 * Build-in color themes are from [Bootswatch](bootswatch.com).
+
+
